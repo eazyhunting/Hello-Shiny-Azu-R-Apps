@@ -1,0 +1,12 @@
+services:
+  shiny-app:
+    build:
+      context: .
+    ports:
+      - "3838:3838"
+    container_name: shiny-hello-world
+    deploy:
+      resources:
+        limits:
+          memory: 2g
+          cpus: "1.0"
