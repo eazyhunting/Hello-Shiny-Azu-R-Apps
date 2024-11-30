@@ -6,7 +6,7 @@ After a good thanksgiving dinner I was enjoying the good company of my family, a
 
 At any rate, it sparked my attention because I like shiny things and I love shiny things in Azure.
 
-So when I woke the next morning I took a few hours to see what I was missing out out.
+So when I woke the next morning I took a few hours to see what I was missing out on.
 
 ## What  is  Shiny
 
