@@ -2,7 +2,7 @@
 
 ## Overview
 
-After a good thanksgiving dinner I was enjoying the good company of my family, and relative asked me if I new anything about Shiny Apps in Azure? Now, they're a joke laying around somewhere if someone could pick that up before someone falls over it.
+After a good thanksgiving dinner I was enjoying the good company of my family, and relative asked me if I new anything about Shiny Apps in Azure? Now, there's a joke laying around somewhere if someone could pick that up before someone falls over it.
 
 At any rate, it sparked my attention because I think shiny things and I love shiny Azure things.
 
