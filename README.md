@@ -4,7 +4,7 @@
 
 After a good thanksgiving dinner I was enjoying the good company of my family, and relative asked me if I new anything about Shiny Apps in Azure? Now, there's a joke laying around somewhere if someone could pick that up before someone falls over it.
 
-At any rate, it sparked my attention because I like shiny things and I love shiny Azure things.
+At any rate, it sparked my attention because I like shiny things and I love shiny things in Azure.
 
 So when I woke the next morning I took a few hours to see what I was missing out out.
 
