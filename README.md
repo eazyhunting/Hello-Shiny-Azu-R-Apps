@@ -10,7 +10,7 @@ So when I woke the next morning I took a few hours to see what I was missing out
 
 ## What  is  Shiny
 
-Shin is a framework that allows data scientists to develop quick and easy web sites so that you don't have to pay a full stack team of people JUST to deliver the value from you data folks. Essentially they can do it themselves - the Azure stuff might trip them up.
+Shiny is a framework that allows data scientists to develop quick and easy web sites so that you don't have to pay a full stack team of people JUST to deliver the value from you data folks. Essentially they can do it themselves - the Azure stuff might trip them up.
 
 Shiny Apps support Python & R. My relative was using R so that's what I focused on.
 
